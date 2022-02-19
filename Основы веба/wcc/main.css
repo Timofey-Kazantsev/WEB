@@ -1,0 +1,144 @@
+body
+{
+	margin:0px;
+}
+a
+{
+	text-decoration: none;
+	color: #ffcf48;
+	font-family: fantasy;
+	font-size: 15px;
+	letter-spacing: 2px;
+}
+.container
+{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.top
+{
+	height: 70px;
+	color: black;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: black;
+	width: 100%;
+	border-bottom: 2px solid #ffcc00;
+
+}
+.number
+{
+	color: #ffcf48;
+	font-family: fantasy;
+	font-size: 15px;
+	letter-spacing: 2px;
+}
+.shop_name
+{
+	color: #ffcc00;
+	font-family: fantasy;
+	font-size: 30px;
+	letter-spacing: 5px;
+	width: 200px;
+	height: 40px;
+	margin-right:-75px;
+}
+.mail
+{
+	color: #ffcf48;
+	font-family: fantasy;
+	font-size: 15px;
+	letter-spacing: 2px;
+}
+.top_bottom
+{
+	background-color: #560319;
+	height: 20px;
+	width: 100%;
+}
+.gradient_top
+{
+	height: 70px;
+	background-color: black;
+}
+.clothes
+{
+	color: #ffcf48;
+	padding: 20px;
+	font-size: 20px;
+}
+.shoes
+{
+	margin:10px;
+	color: #ffcf48;
+	padding: 20px;
+	display: flex;
+	font-size: 20px;
+}
+.acessor
+{
+	color: #ffcf48;
+	padding: 20px;
+	font-size: 20px;
+}
+.main_part
+{
+	height: 800px;
+	background-color: white;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.item
+{
+	height: 200px;
+	width: 150px;
+	display: flex;
+	border: 3px solid #ffcc00;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	color: #ffcf48;
+	margin: 100px;
+}
+.item1
+{
+	margin-top:-10px;
+	height: 151px;
+	width: 151px;
+}
+.bottom
+{
+	height: 70px;
+	color: black;
+	background-color: black;
+	width: 100%;
+	display:flex;
+	align-items: center;
+}
+.info_bottom
+{
+	display:flex;
+	align-items: center;
+	justify-content: space-around;
+	width: 100%;
+}
+.number_bottom
+{
+	color: #ffcf48;
+	font-family: fantasy;
+	font-size: 15px;
+	letter-spacing: 2px;
+	
+}
+.mail_bottom
+{
+	color: #ffcf48;
+	font-family: fantasy;
+	font-size: 15px;
+	letter-spacing: 2px;
+}
