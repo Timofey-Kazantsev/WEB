@@ -1,6 +1,7 @@
 body
 {
 	margin:0px;
+	font-family: sans-serif;
 }
 a
 {
@@ -34,7 +35,6 @@ a
 	color: #ffcf48;
 	font-family: fantasy;
 	font-size: 15px;
-	letter-spacing: 2px;
 }
 .shop_name
 {
@@ -51,7 +51,7 @@ a
 	color: #ffcf48;
 	font-family: fantasy;
 	font-size: 15px;
-	letter-spacing: 2px;
+    padding-left: 69px;
 }
 .top_bottom
 {
